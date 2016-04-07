@@ -3,7 +3,7 @@ Git Tuto
 
 => https://github.com
 => Login
-=> Create new repository
+=> Create new repository Ex: https://guides.github.com/activities/hello-world/create-new-repo.png
 => Initialize this repository with a README
 => Create repository
 
