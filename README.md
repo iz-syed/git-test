@@ -9,3 +9,9 @@ Git Tuto
 
 ==> Open GitBash command prompt
 ==> git clone [project url]
+==> git status					 | current git status
+==> git add [file name] 		 | add single file
+==> git add -A 					 | add all files 
+==> git add . 					 | add all files
+==> git pull					 | download
+==> git push 					 | upload
